@@ -12,7 +12,12 @@ public class City_wishes {
 			if(a.equalsIgnoreCase("banglore")) {
 				System.out.println("hello kannadi -------namaskar");
 			}else {
-				if
+				if(a.equalsIgnoreCase("gujarat")) {
+					System.out.println("hello gujarati -----keem cho ");
+				}else
+				{
+					System.out.println();
+				}
 			}
 		}
 
